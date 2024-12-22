@@ -1,0 +1,21 @@
+{
+  "name": "utools-assets",
+  "version": "1.0.0",
+  "description": "utools-assets",
+  "homepage": "https://github.com/guobin211/utools#readme",
+  "bugs": {
+    "url": "https://github.com/guobin211/utools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guobin211/utools.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
