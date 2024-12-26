@@ -11,11 +11,14 @@
     "url": "git+https://github.com/guobin211/utools.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "guobin211",
+  "scripts": {
+    "fmt": "prettier --write ."
+  },
   "type": "module",
-  "main": "index.js",
   "devDependencies": {
     "tsx": "^4.19.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "prettier": "^3.4.2"
   }
 }
